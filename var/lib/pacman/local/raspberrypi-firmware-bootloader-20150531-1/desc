@@ -1,0 +1,36 @@
+%NAME%
+raspberrypi-firmware-bootloader
+
+%VERSION%
+20150531-1
+
+%DESC%
+Bootloader files for Raspberry Pi
+
+%URL%
+https://github.com/raspberrypi/firmware
+
+%ARCH%
+any
+
+%BUILDDATE%
+1433118978
+
+%INSTALLDATE%
+1433725639
+
+%PACKAGER%
+Arch Linux ARM Build System <builder+xu2@archlinuxarm.org>
+
+%SIZE%
+8139776
+
+%REASON%
+1
+
+%LICENSE%
+custom
+
+%VALIDATION%
+sha256
+

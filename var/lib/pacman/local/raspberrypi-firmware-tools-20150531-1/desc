@@ -1,0 +1,36 @@
+%NAME%
+raspberrypi-firmware-tools
+
+%VERSION%
+20150531-1
+
+%DESC%
+Firmware tools and header files for Raspberry Pi
+
+%URL%
+https://github.com/raspberrypi/firmware
+
+%ARCH%
+any
+
+%BUILDDATE%
+1433118990
+
+%INSTALLDATE%
+1433725640
+
+%PACKAGER%
+Arch Linux ARM Build System <builder+xu2@archlinuxarm.org>
+
+%SIZE%
+6833152
+
+%REASON%
+1
+
+%LICENSE%
+custom
+
+%VALIDATION%
+sha256
+

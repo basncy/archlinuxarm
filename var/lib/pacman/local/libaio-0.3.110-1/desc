@@ -1,0 +1,36 @@
+%NAME%
+libaio
+
+%VERSION%
+0.3.110-1
+
+%DESC%
+The Linux-native asynchronous I/O facility (aio) library
+
+%URL%
+http://lse.sourceforge.net/io/aio.html
+
+%ARCH%
+armv6h
+
+%BUILDDATE%
+1415811812
+
+%INSTALLDATE%
+1433725614
+
+%PACKAGER%
+Arch Linux ARM Build System <builder+xu5@archlinuxarm.org>
+
+%SIZE%
+29696
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+sha256
+
